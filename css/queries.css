@@ -3,4 +3,8 @@
   html {
     font-size: 50%;
   }
+
+  .container {
+    padding: 2rem;
+  }
 }
