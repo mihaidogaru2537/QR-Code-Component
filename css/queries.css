@@ -1,0 +1,6 @@
+/* 400px for 16 root */
+@media (max-width: 25em) {
+  html {
+    font-size: 50%;
+  }
+}
