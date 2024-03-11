@@ -51,5 +51,5 @@ I'd like to focus more on responsiveness in the future. I think it is not enough
 
 ## Author
 
-- Website - [Mihai](https://github.com/mihaidogaru2537/QR-Code-Component)
-- Frontend Mentor - [@mihaidogaru2537](https://www.frontendmentor.io/profile/mihaidogaru2537)
+- Website - [Mihai](https://github.com/mihai2537/QR-Code-Component)
+- Frontend Mentor - [@mihai2537](https://www.frontendmentor.io/profile/mihai2537)
